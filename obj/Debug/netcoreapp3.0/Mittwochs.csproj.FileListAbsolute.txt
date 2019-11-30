@@ -1,0 +1,11 @@
+C:\Users\bhohe\Workspace\Mittwochs\bin\Debug\netcoreapp3.0\Mittwochs.exe
+C:\Users\bhohe\Workspace\Mittwochs\bin\Debug\netcoreapp3.0\Mittwochs.deps.json
+C:\Users\bhohe\Workspace\Mittwochs\bin\Debug\netcoreapp3.0\Mittwochs.runtimeconfig.json
+C:\Users\bhohe\Workspace\Mittwochs\bin\Debug\netcoreapp3.0\Mittwochs.runtimeconfig.dev.json
+C:\Users\bhohe\Workspace\Mittwochs\bin\Debug\netcoreapp3.0\Mittwochs.dll
+C:\Users\bhohe\Workspace\Mittwochs\bin\Debug\netcoreapp3.0\Mittwochs.pdb
+C:\Users\bhohe\Workspace\Mittwochs\obj\Debug\netcoreapp3.0\Mittwochs.csprojAssemblyReference.cache
+C:\Users\bhohe\Workspace\Mittwochs\obj\Debug\netcoreapp3.0\Mittwochs.AssemblyInfoInputs.cache
+C:\Users\bhohe\Workspace\Mittwochs\obj\Debug\netcoreapp3.0\Mittwochs.AssemblyInfo.cs
+C:\Users\bhohe\Workspace\Mittwochs\obj\Debug\netcoreapp3.0\Mittwochs.dll
+C:\Users\bhohe\Workspace\Mittwochs\obj\Debug\netcoreapp3.0\Mittwochs.pdb
