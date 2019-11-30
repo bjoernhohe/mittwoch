@@ -1,5 +1,5 @@
 ﻿using System;
-
+//This calculates the weeks from 2015/03/25
 namespace Mittwochs
 {
     class Program
